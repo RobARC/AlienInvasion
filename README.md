@@ -1,11 +1,11 @@
 # Alien Invasion
 
-## This is a game project based on the the legionary atari's game "Space Invaders"
+## This is a game project based on the legendary atari's game "Space Invaders"
 
 <p>We used pygame library, it is a collection of fun, powerful python's modules that 
 manage graphics animations and even sound, making it easier for you to build
 sophisticated games. With pygame library, handling tasks like drowing images to
-the screen, ypu can focus on the higher-level logic of the game dynamics.</p>
+the screen, you can focus on the higher-level logic of the game dynamics.</p>
 
 <p>We create a rocket ship that move rigth and left and fires bullets in response to
 player input, a fleet of aliens to destroy and adding a scoreboard.</p>
